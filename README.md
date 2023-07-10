@@ -30,13 +30,6 @@ Here are some ideas to get you started:
   </tr>
 </p>
 
-
-## 👨🏻‍💻 Coding Activity
-[![wakatime](https://wakatime.com/badge/user/fe54cec6-cb75-4d5a-95a9-26fa2c396803.svg)](https://wakatime.com/@fe54cec6-cb75-4d5a-95a9-26fa2c396803)
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dickysstwn&layout=compact&theme=chartreuse-dark&hide_border=true&v=2" />
-</p>
-
 <br />
 <img src="https://github.com/SyifaAinnur/SyifaAinnur/blob/output/github-contribution-grid-snake.svg">
 <br />
