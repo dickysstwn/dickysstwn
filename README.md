@@ -13,9 +13,3 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=dickysstwn&theme=github-dark-blue&hide_border=true" width="45%"/>
   </a>
 </p>
-
-<p align="center">
-  <a href="https://github.com/dickysstwn">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dickysstwn&theme=react-dark"/>
-  </a>
-</p>
