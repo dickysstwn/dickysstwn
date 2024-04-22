@@ -1,5 +1,5 @@
 <h1 align="center">Hi There, I'm Dicky Setiawan</h1>
-<h3 align="center">Data, Deep Learning, Machine Learning, and AI Enthusiast</h3>
+<h3 align="center">Data Science, AI, & Research Enthusiast</h3>
 <hr />
 
 <h2 align="center">Profile Views</h2>
